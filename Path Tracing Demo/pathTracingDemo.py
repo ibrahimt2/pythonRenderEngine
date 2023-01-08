@@ -1,3 +1,4 @@
+import math
 import matplotlib.pyplot as plt  # plotting
 import numpy as np  # all of numpy
 from gpytoolbox import read_mesh, per_vertex_normals, per_face_normals  # just used to load a mesh and compute per-vertex normals
