@@ -21,4 +21,4 @@ A from scratch Renderer implemented with Python Numpy. Includes:
 
 ![BRDF Importance Sampling with reflective plates](https://github.com/ibrahimt2/pythonRenderEngine/blob/main/sampleGeneratedImages/BRDF%20Importance%20Sampling%20with%20reflective%20plates.png "BRDF Importance Sampling with reflective plates")
 
-![Bunny Rendering, Cosine Importance Sampling](https://github.com/ibrahimt2/pythonRenderEngine/blob/main/sampleGeneratedImages/Bunny%20Rendering%2C%20Cosine%20Importance%20Sampling.png"Bunny Rendering, Cosine Importance Sampling")
+![Bunny Rendering, Cosine Importance Sampling](https://github.com/ibrahimt2/pythonRenderEngine/blob/main/sampleGeneratedImages/Bunny%20Rendering%2C%20Cosine%20Importance%20Sampling.png "Bunny Rendering, Cosine Importance Sampling")
