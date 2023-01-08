@@ -15,12 +15,14 @@ A from scratch Renderer implemented with Python Numpy. Includes:
 
 
 ___________________________
+
 <figure>
     <img src="https://github.com/ibrahimt2/pythonRenderEngine/blob/main/sampleGeneratedImages/Glossy%20Scene%2C%20Implicit%20Path%20Tracing%2C%204%20bounces.png" height="200">
     <figcaption>Glossy Scene, Implicit Path Tracing, 4 bounces</figcaption>
 </figure>
 
 <br/>
+
 ___________________________
 
 <figure>
@@ -28,6 +30,7 @@ ___________________________
     <figcaption>Diffuse Scene, Implicit Path Traching, 4 bounces</figcaption>
 </figure>
 <br/>
+
 ___________________________
 
 <figure>
