@@ -17,7 +17,7 @@ A from scratch Renderer implemented with Python Numpy. Includes:
 ___________________________
 
 <figure>
-    <img src="https://github.com/ibrahimt2/pythonRenderEngine/blob/main/sampleGeneratedImages/Glossy%20Scene%2C%20Implicit%20Path%20Tracing%2C%204%20bounces.png" height="200">
+    <img src="https://github.com/ibrahimt2/pythonRenderEngine/blob/main/sampleGeneratedImages/Glossy%20Scene%2C%20Implicit%20Path%20Tracing%2C%204%20bounces.png" height="300">
     <figcaption>Glossy Scene, Implicit Path Tracing, 4 bounces</figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ ___________________________
 ___________________________
 
 <figure>
-    <img src="https://github.com/ibrahimt2/pythonRenderEngine/blob/main/sampleGeneratedImages/Diffuse%20Scene%2C%20Implicit%20Path%20Traching%2C%204%20bounces.png" height="200">
+    <img src="https://github.com/ibrahimt2/pythonRenderEngine/blob/main/sampleGeneratedImages/Diffuse%20Scene%2C%20Implicit%20Path%20Traching%2C%204%20bounces.png" height="300">
     <figcaption>Diffuse Scene, Implicit Path Traching, 4 bounces</figcaption>
 </figure>
 <br/>
@@ -34,7 +34,7 @@ ___________________________
 ___________________________
 
 <figure>
-    <img src="https://github.com/ibrahimt2/pythonRenderEngine/blob/main/sampleGeneratedImages/Light%20Importance%20Sampling%20with%20reflective%20plates.png" height="200">
+    <img src="https://github.com/ibrahimt2/pythonRenderEngine/blob/main/sampleGeneratedImages/Light%20Importance%20Sampling%20with%20reflective%20plates.png" height="300">
     <figcaption>Light Importance Sampling with reflective plates</figcaption>
 </figure>
 <br/>
@@ -42,7 +42,7 @@ ___________________________
 ___________________________
 
 <figure>
-    <img src="https://github.com/ibrahimt2/pythonRenderEngine/blob/main/sampleGeneratedImages/BRDF%20Importance%20Sampling%20with%20reflective%20plates.png" height="200">
+    <img src="https://github.com/ibrahimt2/pythonRenderEngine/blob/main/sampleGeneratedImages/BRDF%20Importance%20Sampling%20with%20reflective%20plates.png" height="300">
     <figcaption>BRDF Importance Sampling with reflective plates</figcaption>
 </figure>
 <br/>
